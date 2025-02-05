@@ -1,1 +1,1 @@
-# coding
+    input('hello)

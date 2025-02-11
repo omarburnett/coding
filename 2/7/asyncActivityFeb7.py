@@ -19,15 +19,22 @@
 #  Create a function that will loop through each number in the list and identify if it is the highest number. When your program finds the highest grade,
 #  it should return a message telling the user what the highest grade is.
 
-# a while loop should bwe use in a situation where a process is needed to be repeated for an repetitive process 
+# a while loop should be use in a situation where a process is needed to be repeated for an repetitive process as long as true 
+#for loop just scans over a list of data.
+#i would use a loop to check for a winning condiction in a chess game 
 
 def schoolgrades():
-   input('hello what grades are you looking for')
-   grades=[1,2,4,75]
-   for number in grades:
-        if grades>4:
-            print(75)
-i = 1
-while i < 6:
-    print(schoolgrades)
-    i += 1
+    hi== 'yes' 
+    hi=input('hello what grades are you looking for')
+    if hi=='yes':
+        while hi== 'yes':
+            print(schoolgrades)
+    
+
+healtpoints=100
+attack=20
+while healtpoints>0:
+    print
+    print('alive')
+    healtpoints-=attack
+print('dead')

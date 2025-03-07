@@ -27,9 +27,12 @@
 #a. my game will allow the player to move across the screen horizontally
 #b. my game will feature different weapon types that will have different effects.
 
-'game name: block dash'
-'action'
-'collect blocks/items and power up . some encouters may require past and present dynamic skills to pass the levle,if the character fails they will be met with an harder levle instead of restarting'
-'my inspiration stems from good of war ,mario and injustice 2 . injustice 2 uses dynamic power ups to compliment past knowledge'
-'mario provides power ups for the player and god of war , dynamic enemies'
+'1''game name: block dash'
+'2''action'
+'3''collect blocks/items and power up . some encouters may require past and present dynamic skills to pass the levle,if the character fails they will be met with an harder levle instead of restarting'
+'4''my inspiration stems from good of war ,mario and injustice 2 . injustice 2 uses dynamic power ups to compliment past knowledge'
+'mario provides power ups for the player to have an dynamic exsperience and god of war , dynamic enemies that challenge thoese power ups'
+'these games are related in the way they set goals. the goal for my game will be common yet repetively fun- never stop aquiring power ups for dynamic enemies'
+'5''my game while allow players to play as enemies and levle up through skill'
+
 
